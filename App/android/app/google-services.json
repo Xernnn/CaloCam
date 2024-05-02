@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913052336866",
+    "project_id": "calocam",
+    "storage_bucket": "calocam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913052336866:android:56aa4a8169a4ee0a1014bb",
+        "android_client_info": {
+          "package_name": "com.example.caloriescam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55yhsvs4NoD_IyqZb_SU5hHItUSuttPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
