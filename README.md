@@ -9,13 +9,12 @@ This repository contains the CaloCam: Shed the Pounds, Savor the Flavors applica
   - Le Mau Minh Phuc – BI12-351
   - Nguyen Son – BI12-389
 
+## Video (Click the image below)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/DjZkI3gvv_4/0.jpg)](http://www.youtube.com/watch?v=DjZkI3gvv_4 "CaloCam_Video")
+
 ## Abstract
 
 The project introduces FoodSAM, an advanced model that integrates the Segment Anything Model (SAM) for improved accuracy in food ingredients segmentation. It utilizes datasets like UECFoodPixComplete, SA-1B, FoodSeg103, and Objects365 to demonstrate its effectiveness in identifying detailed food items. The results show significant potential for FoodSAM in health and dietary management applications.
-
-![alt text](https://imgur.com/a/8clVR0z "CaloCam")
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/DjZkI3gvv_4/0.jpg)](http://www.youtube.com/watch?v=DjZkI3gvv_4 "CaloCam_Video")
 
 ## Keywords
 
