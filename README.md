@@ -26,3 +26,11 @@ The project introduces FoodSAM, an advanced model that integrates the Segment An
 
 ---
 For more details, please refer to the full report or contact the project members.
+## Not in this repository
+
+- **The reference card photos.** They show real ID, bank and student cards, so only their labels are
+  public. See `Reference Card Detection Model/data/README.md`.
+- **`App/android/app/google-services.json`.** Create a Firebase project, add an Android app with the
+  package name from `App/android/app/build.gradle`, and download its `google-services.json` into
+  `App/android/app/` before building.
+- **Card photos in `slide.pptx`** are pixelated.

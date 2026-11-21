@@ -1,0 +1,6 @@
+
+# Firebase config: download your own from the Firebase console
+App/android/app/google-services.json
+
+# Card photos (people's ID and bank cards) are kept out of the public repo
+Reference Card Detection Model/data/*/images/
